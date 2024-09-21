@@ -1,0 +1,27 @@
+{
+  "name": "node_JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "quoccuongdev",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+<<<<<<< HEAD
+"scripts": {
+  "start": "node demo1-2/index.js"
+},
+
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
+
+=======
+  "scripts": {
+    "start": "node bt_1/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
+>>>>>>> 5478f05 (BT1)
